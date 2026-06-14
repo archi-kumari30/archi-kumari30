@@ -9,3 +9,52 @@ Hi 👋, I'm Archi Kumari
 🚀 Building projects and improving development skills every day
 🎯 Goal: Become a Full-Stack Software Engineer
 ---
+Programming Languages
+.☕ Java
+.🟨 JavaScript
+.Frontend
+.🌐 HTML5
+.🎨 CSS3
+.⚛️ React.js (Currently Learning)
+Tools & Platforms
+.🔧 Git
+.🐙 GitHub
+.💻 VS Code
+.🚀 Vercel
+Problem Solving
+.📚 Data Structures & Algorithms
+.🔥 LeetCode (200+ Problems Solved)
+.🏆 GeeksforGeeks Practice
+---
+🚀 Featured Project
+🍔 Yucca Food Website
+🔗 Live Demo:
+https://yucca-food-website.vercel.app/
+---
+.📈 Coding Journey
+.✅ 200+ Problems Solved on LeetCode
+.✅ Regular DSA Practice
+.✅ Learning React.js
+.✅ Building Real-World Projects
+---
+.🎯 2026 Goals
+.🚀 Solve 500+ LeetCode Problems
+.🚀 Master DSA
+.🚀 Learn React.js
+.🚀 Build More Projects
+.🚀 Contribute to Open Source
+---
+🌐 Connect With Me
+LinkedIn
+
+https://www.linkedin.com/in/archi-kumari-b2944a383/
+
+LeetCode
+
+https://leetcode.com/u/Archi_kumari30/
+
+Email
+
+kumariarchi926@gmail.com
+---
+⭐ Thanks for visiting my profile!
